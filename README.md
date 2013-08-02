@@ -8,7 +8,7 @@ Allows user to either view onscreen or download a CSV file of a specified row an
 
 How to use it
 -------------
-1. Customize the 3 variables at the top of the file under: set these variables. 
+1. Customize the 3 variables at the top of the file under "SET THESE VARIABLES". 
 
 - $colmax: This is the total number of columns you want.
 - $rowmax: This is the total number of rows you want.
@@ -21,7 +21,7 @@ How to use it
 Version History
 ---------------
 
-**0.1 :: August 1, 2013**
+**v 0.1 :: August 1, 2013**
 - Initial release
 - Random numbers between 1 - 100k
 
