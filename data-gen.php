@@ -1,8 +1,14 @@
 <?php
+/*********************
+Version: 0.1
+Release: August 1, 2013
+Company: Socrata, Inc (Matthew Vanden Boogart)
+*********************/
+
 // SET THESE VARIABLES
 $colmax = 7; // total number of columns
 $rowmax = 5; // total number of rows
-$download = true; //true: CSV will download | false: on-screen results
+$download = true; //true: CSV will download | false: onscreen results
 // END SETUP
 
 
